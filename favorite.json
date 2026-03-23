@@ -1,122 +1,20 @@
 [
     {
-        "id": "10__park.mp3",
-        "info": "10__park",
-        "info2": "1. 公園.I often go to the park.2. 車を駐車する.Where can I park?Where can I park my car?",
-        "info3": "1. 公園。私はよく公園に行きます。2. 車を駐車する。どこに駐車できますか?どこに車を駐車できますか?"
-    },
-    {
-        "id": "11__station.mp3",
-        "info": "11__station",
-        "info2": "Station. 1. 駅. Let's meet at the subway station. 2. 役所の書、放送などの曲。 Do you want to work at a TV station?",
-        "info3": "駅。 1.駅。地下鉄の駅で会いましょう。 2. 役所の書、放送などの曲。 テレビ局で働きたいですか？"
-    },
-    {
-        "id": "12__train.mp3",
-        "info": "12__train",
-        "info2": "Train. 1. 列車, 電車. I usually take the 8 o'clock train to school. 2. 何々を訓練する。 My parents train dogs for the blind people.",
-        "info3": "電車。 1. 列車、電車。私はいつも8時の電車に乗って学校に行きます。 2. 何々を訓練する。 私の両親は視覚障害者のために犬を訓練しています。"
-    },
-    {
-        "id": "13__name.mp3",
-        "info": "13__name",
-        "info2": "Name. 1. Na. Name. Please write your name here. 2. 何々を何々と名付ける. He named his son Benjamin.",
-        "info3": "名前。 1.な。名前。ここにあなたの名前を書いてください。 2. 何々を何というような名前をつける。彼は息子をベンジャミンと名付けました。"
-    },
-    {
-        "id": "14__hello.mp3",
-        "info": "14__hello",
-        "info2": "Hello. こんにちは。やあ。もしもし。 Hello. How are you?",
-        "info3": "こんにちは。 こんにちは。やあ。もしもし。 こんにちは。元気ですか？"
-    },
-    {
         "id": "15__sport.mp3",
-        "info": "15__sport",
-        "info2": "スポーツ、運動競技。",
-        "info3": "スポーツ、運動競技。"
-    },
-    {
-        "id": "16__can.mp3",
-        "info": "16__can",
-        "info2": "can.1. 何々することができる。Can you swim?Yes, I can.2. 何々してよい。You can go home now.",
-        "info3": "1。 2. 何々できることができる。 何々してよい。もう帰ってもいいよ。"
-    },
-    {
-        "id": "17__people.mp3",
-        "info": "17__people",
-        "info2": "People, 人々, Our neighbors are nice people.",
-        "info3": "人々、人々、私たちの隣人は良い人たちです。"
-    },
-    {
-        "id": "18__go.mp3",
-        "info": "18__go",
-        "info2": "Go, 行く. I go to school from Monday to Friday.",
-        "info3": "行く、行く。私は月曜日から金曜日まで学校に行きます。"
-    },
-    {
-        "id": "19__think.mp3",
-        "info": "19__think",
-        "info2": "何々と思う。考える。I think he can do it. I think that he can do it. I think so.",
-        "info3": "私は彼にはそれができると思う。彼にはそれができると思う。そう思います。"
+        "english": "Sport. My favorite sports are soccer and tennis.",
+        "japanese": "スポーツ。 スポーツ運動競技 私の好きなスポーツはサッカーとテニスです。",
+        "jpg": "【15__sport】My favorite sports are soccer and tennis."
     },
     {
         "id": "1__school.mp3",
-        "info": "1__school",
-        "info2": "School, 学校, I go to school from Monday to Saturday.",
-        "info3": "学校、私は月曜日から土曜日まで学校に行きます。"
+        "english": "School. I go to school from Monday to Saturday.",
+        "japanese": "学校。 学校に月曜日から土曜日まで行きます。",
+        "jpg": "【1__school】I go to school from Monday to Saturday."
     },
     {
         "id": "20__want.mp3",
-        "info": "20__want",
-        "info2": "1. 何々が欲しい。何々を望む。2. 何々したい。",
-        "info3": "1. 何々が欲しい。何々を望む。2. 何かしたい。"
-    },
-    {
-        "id": "2__student.mp3",
-        "info": "2__student",
-        "info2": "Student.学生, 生徒. My brother is a high school student.",
-        "info3": "学生、学生、生徒。私の兄は高校生です。"
-    },
-    {
-        "id": "3__English.mp3",
-        "info": "3__English",
-        "info2": "English. 1. 英語. She is very good at English. 2. 英語の. I can sing some English songs.",
-        "info3": "英語。 1. 日本語。彼女は英語がとても上手です。 2. 日本語の。私は英語の歌をいくつか歌うことができます。"
-    },
-    {
-        "id": "4__Japanese.mp3",
-        "info": "4__Japanese",
-        "info2": "Japanese. 1. 日本人, 日本語. You speak Japanese well. 2. 日本の, 日本人の, 日本語の. Do you like Japanese food?",
-        "info3": "日本語。 1. 日本人、日本語。あなたは日本語を上手に話します。 2. 日本の、日本人の、日本語の。日本食は好きですか？"
-    },
-    {
-        "id": "5__friend.mp3",
-        "info": "5__friend",
-        "info2": "Friend.友達, 友人. He is my best friend.",
-        "info3": "友達、友達、友人。彼は私の親友です。"
-    },
-    {
-        "id": "6__food.mp3",
-        "info": "6__food",
-        "info2": "Food. 食べ物、食料。 What kind of food do you like?",
-        "info3": "食べ物。 食べ物、食料。 どんな食べ物が好きですか？"
-    },
-    {
-        "id": "7__family.mp3",
-        "info": "7__family",
-        "info2": "family, 家族, I know his family well.",
-        "info3": "家族、家族、私は彼の家族をよく知っています。"
-    },
-    {
-        "id": "8__child.mp3",
-        "info": "8__child",
-        "info2": "Child, 子供, Do you have any children?",
-        "info3": "子供、子供、子供はいますか？"
-    },
-    {
-        "id": "9__team.mp3",
-        "info": "9__team",
-        "info2": "Team. Team. I am a member of the baseball team.",
-        "info3": "チーム。チーム。私は野球チームのメンバーです。"
+        "english": "Want. What do you want for your birthday? I want to drink something cold.",
+        "japanese": "欲しい。 1. 何々が欲しい。 何々を望む。 誕生日に何が欲しいですか? に何でもしたい。 冷たいものが飲みたいです。",
+        "jpg": "【20__want】What do you want for your birthday?／I want to drink something cold."
     }
 ]
