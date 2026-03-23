@@ -1,17 +1,5 @@
 [
-    {
-        "id": "15__sport",
-        "english": "Sport. My favorite sports are soccer and tennis.",
-        "japanese": "スポーツ。 スポーツ運動競技 私の好きなスポーツはサッカーとテニスです。",
-        "jpg": "【15__sport】My favorite sports are soccer and tennis."
-    },
-    {
-        "id": "1__school",
-        "english": "School. I go to school from Monday to Saturday.",
-        "japanese": "学校。 学校に月曜日から土曜日まで行きます。",
-        "jpg": "【1__school】I go to school from Monday to Saturday."
-    },
-    {
+        {
         "id": "20__want",
         "english": "Want. What do you want for your birthday? I want to drink something cold.",
         "japanese": "欲しい。 1. 何々が欲しい。 何々を望む。 誕生日に何が欲しいですか? 2.何でもしたい。 冷たいものが飲みたいです。",
