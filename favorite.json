@@ -1,8 +1,122 @@
 [
-        {
+    {
+        "id": "10__park",
+        "english": "Park. I often go to the park. Where can I park? Where can I park my car?",
+        "japanese": "私はよく公園に行きます。どこに駐車すればいいですか？車はどこに駐車できますか?",
+        "jpg": "【10__park】I often go to the park.／Where can I park?／Where can I park my car?"
+    },
+    {
+        "id": "11__station",
+        "english": "Let's meet at the subway station. Do you want to work at a TV station?",
+        "japanese": "テレビ局で働きたいですか？",
+        "jpg": "【11__station】Do you want to work at a TV station?"
+    },
+    {
+        "id": "12__train",
+        "english": "Train. I usually take the 8 o'clock train to school. My parents train dogs for the blind people.",
+        "japanese": "私はいつも8時の電車に乗って学校に行きます。私の両親は視覚障害者のために犬を訓練しています。",
+        "jpg": "【12__train】I usually take the 8 o'clock train to school.／My parents train dogs for the blind people."
+    },
+    {
+        "id": "13__name",
+        "english": "Name 1. Please write your name here. He named his son Benjamin.",
+        "japanese": "ここにあなたの名前を書いてください。彼は息子をベンジャミンと名付けました。",
+        "jpg": "【13__name】Please write your name here.／He named his son Benjamin."
+    },
+    {
+        "id": "14__hello",
+        "english": "Hello. Hello, how are you?",
+        "japanese": "こんにちは お元気ですか？",
+        "jpg": "【14__hello】Hello, how are you?"
+    },
+    {
+        "id": "15__sport",
+        "english": "Sport. My favorite sports are soccer and tennis.",
+        "japanese": "私の好きなスポーツはサッカーとテニスです。",
+        "jpg": "【15__sport】My favorite sports are soccer and tennis."
+    },
+    {
+        "id": "16__can",
+        "english": "Can. Can you swim? Yes, I can. You can go home now.",
+        "japanese": "泳げますか？はい、できます。もう家に帰っても大丈夫です。",
+        "jpg": "【16__can】Can you swim?／Yes, I can.／You can go home now."
+    },
+    {
+        "id": "17__people",
+        "english": "People. Our neighbors are nice people.",
+        "japanese": "私たちの隣人は良い人たちです。",
+        "jpg": "【17__people】Our neighbors are nice people."
+    },
+    {
+        "id": "18__go",
+        "english": "Go. I go to school from Monday to Friday.",
+        "japanese": "私は月曜日から金曜日まで学校に行きます。",
+        "jpg": "【18__go】I go to school from Monday to Friday."
+    },
+    {
+        "id": "19__think",
+        "english": "Think. I think he can do it. I think that he can do it. I think so.",
+        "japanese": "彼にはそれができると思う。彼にはそれができると思う。そう思います。",
+        "jpg": "【19__think】I think he can do it.／I think that he can do it.／I think so."
+    },
+    {
+        "id": "1__school",
+        "english": "School. I go to school from Monday to Saturday.",
+        "japanese": "私は月曜日から土曜日まで学校に行きます。",
+        "jpg": "【1__school】I go to school from Monday to Saturday."
+    },
+    {
         "id": "20__want",
         "english": "Want. What do you want for your birthday? I want to drink something cold.",
-        "japanese": "誕生日に何が欲しいですか?冷たいものが飲みたいです。",
+        "japanese": "誕生日に何が欲しいですか？冷たいものが飲みたいです。",
         "jpg": "【20__want】What do you want for your birthday?／I want to drink something cold."
+    },
+    {
+        "id": "2__student",
+        "english": "Student. My brother is a high school student.",
+        "japanese": "私の兄は高校生です。",
+        "jpg": "【2__student】My brother is a high school student."
+    },
+    {
+        "id": "3__English",
+        "english": "English 1. She is very good at English. I can sing some English songs.",
+        "japanese": "彼女は英語がとても上手です。私は英語の歌をいくつか歌うことができます。",
+        "jpg": "【3__English】She is very good at English.／I can sing some English songs."
+    },
+    {
+        "id": "4__Japanese",
+        "english": "Japanese. You speak Japanese well. Do you like Japanese food?",
+        "japanese": "あなたは日本語が上手です。日本食は好きですか？",
+        "jpg": "【4__Japanese】You speak Japanese well.／Do you like Japanese food?"
+    },
+    {
+        "id": "5__friend",
+        "english": "Friend. He is my best friend.",
+        "japanese": "彼は私の親友です。",
+        "jpg": "【5__friend】He is my best friend."
+    },
+    {
+        "id": "6__food",
+        "english": "Food. What kind of food do you like?",
+        "japanese": "あなたはどんな食べ物が好きですか？",
+        "jpg": "【6__food】What kind of food do you like?"
+    },
+    {
+        "id": "7__family",
+        "english": "Family. I know his family well.",
+        "japanese": "私は彼の家族をよく知っています。",
+        "jpg": "【7__family】I know his family well."
+    },
+    {
+        "id": "8__child",
+        "english": "Child. Do you have any children?",
+        "japanese": "子供はいますか？",
+        "jpg": "【8__child】Do you have any children?"
+    },
+    {
+        "id": "9__team",
+        "english": "Team. Team I am a member of the baseball team.",
+        "japanese": "チーム 私は野球チームのメンバーです。",
+        "jpg": "【9__team】Team I am a member of the baseball team."
     }
 ]
